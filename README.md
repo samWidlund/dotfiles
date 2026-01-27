@@ -1,1 +1,2 @@
-# Samuel Widlunds dotfiles managed with GNU stow
+# Personal dotfiles
+Symlinks managed with GNU stow
