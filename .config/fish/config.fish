@@ -11,6 +11,7 @@ alias scandown='sudo freshclam && clamscan -r -v --bell ~/Downloads'
 alias g='git'
 alias x='exit'
 alias lsa='ls -la'
+alias lsl='ls -l'
 
 set -gx EDITOR vim
 
