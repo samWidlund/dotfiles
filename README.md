@@ -1,5 +1,5 @@
 # Personal dotfiles
-Symlinks managed with GNU stow
+Symlinks managed with [GNU stow](https://www.gnu.org/software/stow/)
 
 ## Current setup
 - OS: Arch Linux
