@@ -1,0 +1,14 @@
+[Desktop Entry]
+DefaultProfile=fish.profile
+
+[General]
+ConfigVersion=1
+
+[KonsoleWindow]
+RememberWindowSize=false
+
+[MainWindow]
+MenuBar=Disabled
+
+[UiSettings]
+ColorScheme=
