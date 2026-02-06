@@ -1,8 +1,3 @@
-if status is-interactive
-    # Commands to run in interactive sessions can go here
-end
-
-
 # alias
 alias update='sudo pacman -Syu'
 alias install='sudo pacman -S'
@@ -45,6 +40,7 @@ function kbstatus
     ps aux | grep evtest
 end
 
+# default editor
 set -gx EDITOR vim
 
 # startup
