@@ -9,5 +9,3 @@ Symlinks managed with [GNU stow](https://www.gnu.org/software/stow/)
 - Terminal: Konsole
     - Startup command: `/usr/bin/fish -c "echo; pwd; ls; echo; fastfetch; exec fish"` 
 - Font: [Monocraft](https://github.com/IdreesInc/Monocraft)
-
-## Backlog
