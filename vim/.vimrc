@@ -75,6 +75,9 @@ set wildmode=list:longest
 " Wildmenu will ignore files with these extensions.
 set wildignore=*.docx,*.jpg,*.png,*.gif,*.pdf,*.pyc,*.exe,*.flv,*.img,*.xlsx
 
+" Counting numbers up and down from current position.
+set relativenumber
+
 " PLUGINS ---------------------------------------------------------------- {{{
 
 " Plugin code goes here.
