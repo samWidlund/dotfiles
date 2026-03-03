@@ -8,6 +8,7 @@ alias x='exit'
 alias lsa='ls -la'
 alias lsl='ls -l'
 alias deploy='npm run deploy'
+alias ai='opencode'
 
 # alias to disable laptop keyboard
 function kboff
