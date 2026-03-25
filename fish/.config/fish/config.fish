@@ -48,3 +48,4 @@ set -gx EDITOR vim
 # startup
 set fish_greeting
 export PATH="$HOME/.local/bin:$PATH"
+starship init fish | source
