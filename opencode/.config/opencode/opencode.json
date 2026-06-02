@@ -1,7 +1,6 @@
 {
   "$schema": "https://opencode.ai/config.json",
   "default_agent": "build",
-  "theme": "system",
   "share": "disabled",
   "permission": {
     "edit" : "ask",
