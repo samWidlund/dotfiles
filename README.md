@@ -6,9 +6,9 @@ Linux symlinks managed with [GNU stow](https://www.gnu.org/software/stow/)
 - Shell: Fish
 - DE: KDE Plasma
 - WM: Wayland
-- Terminal: Konsole (currently trying alacritty)
-    - Startup command: `/usr/bin/fish -c "echo; pwd; ls; echo; fastfetch; exec fish"` 
+- Terminal: Alacritty
 - Font: [Monocraft](https://github.com/IdreesInc/Monocraft)
+
 ### Extensions/packages
 - Starship
 - Z tool
@@ -17,6 +17,3 @@ Linux symlinks managed with [GNU stow](https://www.gnu.org/software/stow/)
 - Windows 10
 - Powershell
 - Font: [Monocraft](https://github.com/IdreesInc/Monocraft)
-
-## Backlog
-- opencode config
