@@ -7,7 +7,7 @@ decorations_theme_variant = "Dark"
 blur = true
 
 [general]
-working_directory = "repos"
+working_directory = "None"
 import = [
     "~/dotfiles/alacritty/.config/alacritty/themes/themes/hyper.toml"
 ]
