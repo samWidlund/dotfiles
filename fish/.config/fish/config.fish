@@ -1,14 +1,12 @@
 # alias
-alias update='sudo pacman -Syu'
-alias install='sudo pacman -S'
-alias search='sudo pacman -Ss'
-alias scandown='sudo freshclam && clamscan -r -v --bell ~/Downloads'
 alias g='git'
 alias x='exit'
 alias lsa='ls -la'
 alias lsl='ls -l'
 alias deploy='npm run deploy'
 alias ai='opencode'
+alias updall='sudo dnf update && flatpak update'
+
 
 # alias to disable laptop keyboard
 function kboff
